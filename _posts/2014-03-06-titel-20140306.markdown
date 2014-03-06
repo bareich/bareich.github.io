@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Titel 20140306
 layout: post
 ---

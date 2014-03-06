@@ -1,7 +1,8 @@
 ---
-published: true
+published: false
+title: aaaaaaaaaaaa
+layout: post
 ---
-
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button fors formatting help.

@@ -1,0 +1,6 @@
+---
+published: true
+title: direkt Textile
+layout: post
+---
+*fettes* Textile Teil _kur_
